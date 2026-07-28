@@ -6,7 +6,7 @@ __pycache__
 
 # Sensitive data
 wechat_keys.json
-wechat_keys*.json
+wechat_keys*
 
 # Output directories
 decrypted/
