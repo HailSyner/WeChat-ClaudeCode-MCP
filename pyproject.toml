@@ -32,4 +32,4 @@ wechat-mcp-chat = "wechat_mcp.chat:main"
 packages = ["wechat_mcp"]
 
 [project.urls]
-Homepage = "https://github.com/SsssssSynqa/WeChat-ClaudeCode-MCP"
+Homepage = "https://github.com/HailSyner/WeChat-ClaudeCode-MCP"

@@ -60,7 +60,7 @@ brew install llvm sqlcipher
 从源码安装：
 
 ```bash
-git clone https://github.com/SsssssSynqa/WeChat-ClaudeCode-MCP.git
+git clone https://github.com/HailSyner/WeChat-ClaudeCode-MCP.git
 cd WeChat-ClaudeCode-MCP
 pip install -e .
 ```
